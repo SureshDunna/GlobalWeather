@@ -1,0 +1,4 @@
+D:\Personal\Job Search\Technical Test\GlobalWeather\GlobalWeather.Dtos\bin\Debug\GlobalWeather.Dtos.dll
+D:\Personal\Job Search\Technical Test\GlobalWeather\GlobalWeather.Dtos\bin\Debug\GlobalWeather.Dtos.pdb
+D:\Personal\Job Search\Technical Test\GlobalWeather\GlobalWeather.Dtos\obj\Debug\GlobalWeather.Dtos.dll
+D:\Personal\Job Search\Technical Test\GlobalWeather\GlobalWeather.Dtos\obj\Debug\GlobalWeather.Dtos.pdb

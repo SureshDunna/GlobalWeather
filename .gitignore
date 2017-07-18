@@ -1,0 +1,4 @@
+*.dll
+*.pdb
+obj\Debug
+bin\Debug
